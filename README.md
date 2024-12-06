@@ -134,7 +134,7 @@ Legal Framework
 Documentation
 
 📜 License
-MIT License - See LICENSE file
+MIT License 
 
 📧 Contact
 Email: sutharv268@Gmail.com
