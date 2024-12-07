@@ -134,7 +134,7 @@ Legal Framework
 Documentation
 
 📜 License
-MIT License 
+MIT License https://github.com/sutharv/Gmail-Security-Master?tab=MIT-1-ov-file#
 
 📧 Contact
 Email: sutharv268@Gmail.com
