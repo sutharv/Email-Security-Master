@@ -74,13 +74,17 @@ pip install -r requirements.txt
 
 ## 🌟 Advanced Usage
 # Custom wordlist
+```
 python3 gmail_master.py --wordlist custom.txt
-
+```
 # Maximum threads
+```
 python3 gmail_master.py --threads 20
-
+```
 # Verbose mode
+```
 python3 gmail_master.py --verbose
+```
 
 ## 📝 Legal Notice
 - Unauthorized testing is ILLEGAL
@@ -131,7 +135,7 @@ python3 gmail_master.py --verbose
 - Email: sutharv268@Gmail.com
 - Linked:https://www.linkedin.com/in/suthar-vishalkumar-18a63b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Remember: This tool requires responsible usage and proper authorization. Users must comply with all applicable laws and regulations.
+- Remember: This tool requires responsible usage and proper authorization. Users must comply with all applicable laws and regulations.
 
 This comprehensive documentation provides clear guidelines, warnings, and usage instructions while maintaining professional standards and legal compliance.
 
