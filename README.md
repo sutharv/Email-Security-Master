@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/gmail-master-cracker
 cd gmail-master-cracker
 pip install -r requirements.txt
 
-## 💻 Usage
+ 💻 Usage
 -python3 gmail_master.py
 
 🔧 Configuration Options
