@@ -28,17 +28,17 @@ git clone https://github.com/yourusername/gmail-master-cracker
 cd gmail-master-cracker
 pip install -r requirements.txt
 
-💻 Usage
+##💻 Usage
 python3 gmail_master.py
 
-🔧 Configuration Options
+##🔧 Configuration Options
 Thread Count (1-20)
 Wordlist Selection
 Proxy Settings
 Delay Timings
 Export Format
 
-📚 Supported Wordlists
+##📚 Supported Wordlists
 RockYou (14M)
 Fasttrack
 DIRB Common
