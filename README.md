@@ -55,7 +55,8 @@ pip install -r requirements.txt
 - View results
 
 ## 📊 Results Format
-```{
+```
+{
     "timestamp": "2024-01-20T10:30:00",
     "target": "example@gmail.com",
     "status": "success/failed",
