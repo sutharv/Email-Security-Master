@@ -31,7 +31,6 @@ pip install -r requirements.txt
 💻 Usage
 python3 gmail_master.py
 
-
 🔧 Configuration Options
 Thread Count (1-20)
 Wordlist Selection
@@ -46,99 +45,3 @@ DIRB Common
 Metasploit
 Custom Lists
 
-🔍 Testing Process
-Select wordlist
-Enter target email
-Configure threads
-Monitor progress
-View results
-
-📊 Results Format
-{
-    "timestamp": "2024-01-20T10:30:00",
-    "target": "example@gmail.com",
-    "status": "success/failed",
-    "attempts": 1000,
-    "duration": "00:10:30"
-}
-
-🛡️ Security Features
-Smart Rate Limiting
-Proxy Protection
-Error Recovery
-Session Management
-Safe Mode Options
-
-🌟 Advanced Usage
-# Custom wordlist
-python3 gmail_master.py --wordlist custom.txt
-
-# Maximum threads
-python3 gmail_master.py --threads 20
-
-# Verbose mode
-python3 gmail_master.py --verbose
-
-
-📝 Legal Notice
-Unauthorized testing is ILLEGAL
-Obtain written permission
-Follow local laws
-Maintain testing logs
-Report vulnerabilities
-
-🔒 Security Guidelines
-Use secure connections
-Implement rate limiting
-Monitor activities
-Log all attempts
-Follow best practices
-
-🚫 Prohibited Actions
-Unauthorized access
-Distributed attacks
-Network flooding
-Data extraction
-System damage
-
-⚡ Performance Tips
-Optimize thread count
-Use efficient wordlists
-Monitor resource usage
-Implement smart delays
-Clean result files
-
-🔥 Common Issues
-Connection timeouts
-Proxy failures
-Rate limiting
-Memory usage
-Thread conflicts
-
-📈 Version History
-v2.0: Advanced wordlist support
-v1.5: Proxy improvements
-v1.0: Initial release
-
-👥 Support
-GitHub Issues
-Email Support
-Documentation
-Community Forum
-
-🌐 Resources
-Security Guidelines
-Testing Protocols
-Best Practices
-Legal Framework
-Documentation
-
-📜 License
-https://github.com/sutharv/Gmail-Security-Master?tab=MIT-1-ov-file#
-
-📧 Contact
-Email: sutharv268@Gmail.com
-
-Remember: This tool requires responsible usage and proper authorization. Users must comply with all applicable laws and regulations.
-
-This comprehensive documentation provides clear guidelines, warnings, and usage instructions while maintaining professional standards and legal compliance.
