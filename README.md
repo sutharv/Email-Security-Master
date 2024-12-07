@@ -24,7 +24,7 @@
 
 ## 🛠️ Installation
  
-git clone 
+git clone: https://github.com/sutharv/Gmail-Security-Master.git
 cd gmail-master-cracker
 pip install -r requirements.txt
 
