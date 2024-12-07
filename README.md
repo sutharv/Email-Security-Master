@@ -23,11 +23,12 @@
 
 ## 🛠️ Installation
 https://github.com/sutharv/Gmail-Security-Master.git
-
+```
 cd gmail-master-cracker
-
+```
+```
 pip install -r requirements.txt
-
+```
 
  ## 💻 Usage
 -python3 gmail_master.py
