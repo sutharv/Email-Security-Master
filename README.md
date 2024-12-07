@@ -18,7 +18,6 @@
 ## 📋 Requirements
 - Python 3.8+
 - Linux/Unix System
-- Internet Connection
 - 500MB+ Storage
 - RAM: 2GB minimum
 
