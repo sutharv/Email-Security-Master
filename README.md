@@ -23,7 +23,6 @@
 - RAM: 2GB minimum
 
  🛠️ Installation
-```bash
 git clone https://github.com/yourusername/gmail-master-cracker
 cd gmail-master-cracker
 pip install -r requirements.txt
