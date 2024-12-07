@@ -22,16 +22,16 @@
 - 500MB+ Storage
 - RAM: 2GB minimum
 
-## 🛠️ Installation
+ 🛠️ Installation
 ```bash
 git clone https://github.com/yourusername/gmail-master-cracker
 cd gmail-master-cracker
 pip install -r requirements.txt
 
 ##💻 Usage
-python3 gmail_master.py
+-python3 gmail_master.py
 
-##🔧 Configuration Options
+🔧 Configuration Options
 Thread Count (1-20)
 Wordlist Selection
 Proxy Settings
