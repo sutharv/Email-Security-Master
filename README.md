@@ -31,7 +31,9 @@ pip install -r requirements.txt
 ```
 
  ## 💻 Usage
--python3 gmail_master.py
+ ```
+ python3 gmail_master.py
+ ```
 
 ## 🔧 Configuration Options
 - Thread Count (1-20)
