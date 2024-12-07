@@ -1,4 +1,4 @@
-# Gmail-Security-Master
+# Email-Security-Master
 🛡️ Gmail Security Master v2.0  Professional Gmail Security Testing Platform with Enterprise Features  Advanced Security Testing Platform featuring comprehensive wordlist support and multi-threaded capabilities. Built for security professionals and system administrators requiring thorough security assessments.
 
 ## ⚠️ IMPORTANT WARNINGS
@@ -43,11 +43,15 @@ pip install -r requirements.txt
 - Export Format
 
 ## 📚 Supported Wordlists
-- RockYou (14M)
-- Fasttrack
+- RockYou (14 million passwords)
+- Fasttrack (222 passwords)
 - DIRB Common
-- Metasploit
-- Custom Lists
+- Metasploit Passwords
+- Nmap Default Lists
+- WFuzz General
+- SecLists Common
+- Custom Wordlists
+- Combined Wordlists
 
 ## 🔍 Testing Process
 - Select wordlist
@@ -75,8 +79,9 @@ pip install -r requirements.txt
 - Safe Mode Options
 
 ## 🌟 Advanced Usage
-# Custom wordlist
 ```
+# Custom wordlist
+
 python3 gmail_master.py --wordlist custom.txt
 ```
 # Maximum threads
@@ -132,6 +137,8 @@ python3 gmail_master.py --verbose
 ## 📜 License
 - https://github.com/sutharv/Gmail-Security-Master/tree/main?tab=MIT-1-ov-file#
 
+## 👤 Author
+Vishalkumar suthar
 
 ## 📧 Contact
 - Email: sutharv268@Gmail.com
