@@ -25,22 +25,22 @@
 ## 🛠️ Installation
 https://github.com/sutharv/Gmail-Security-Master.git
 
-""cd gmail-master-cracker""
+cd gmail-master-cracker
 
-""pip install -r requirements.txt""
+pip install -r requirements.txt
 
 
  ## 💻 Usage
 -python3 gmail_master.py
 
-🔧 Configuration Options
+## 🔧 Configuration Options
 Thread Count (1-20)
 Wordlist Selection
 Proxy Settings
 Delay Timings
 Export Format
 
-##📚 Supported Wordlists
+## 📚 Supported Wordlists
 RockYou (14M)
 Fasttrack
 DIRB Common
