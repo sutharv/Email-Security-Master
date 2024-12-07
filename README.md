@@ -61,8 +61,8 @@ pip install -r requirements.txt
     "status": "success/failed",
     "attempts": 1000,
     "duration": "00:10:30"
-}```
-
+}
+```
 
 ## 🛡️ Security Features
 - Smart Rate Limiting
