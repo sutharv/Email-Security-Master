@@ -122,6 +122,7 @@ python3 gmail_master.py --verbose
 
 
 ## 📜 License
+- https://github.com/sutharv/Gmail-Security-Master/tree/main?tab=MIT-1-ov-file#
 
 
 ## 📧 Contact
