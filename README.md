@@ -23,8 +23,7 @@
 - RAM: 2GB minimum
 
 ## 🛠️ Installation
- 
-git clone: https://github.com/sutharv/Gmail-Security-Master.git
+https://github.com/sutharv/Gmail-Security-Master.git
 cd gmail-master-cracker
 pip install -r requirements.txt
 
